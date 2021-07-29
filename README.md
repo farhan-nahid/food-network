@@ -1,8 +1,8 @@
-### Food Network
+### [Food Network](https://food-network.vercel.app/)
 
 ### About This Site
 
-> This is a simple landing page website
+> This is a simple landing page created with basic HTML5 & CSS3
 
 ###
 
